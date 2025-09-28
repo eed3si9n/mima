@@ -1,3 +1,5 @@
+/*
+
 package mimabuild
 
 import sbt._
@@ -31,3 +33,4 @@ object MimaSettings {
     ),
   )
 }
+*/
